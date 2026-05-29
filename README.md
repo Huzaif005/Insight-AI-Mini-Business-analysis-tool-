@@ -53,5 +53,8 @@ The backend runs on `http://localhost:8000`.
 
 - The frontend uses Vite with React and Tailwind CSS.
 - The backend is a starter Flask app with placeholder services.
-- Add actual model files under `backend/models/` and expand business logic in `backend/services/`.
+- Add actual model files under `backend/models/` and expand business logic in `backend/services/`
+
+## Website link of local host 
+http://localhost:3000/
 
