@@ -1,0 +1,3 @@
+transaction_id,account,amount,currency,transaction_date
+3001,ACCT-001,1500.00,USD,2024-02-10
+3002,ACCT-002,-200.00,USD,2024-02-11

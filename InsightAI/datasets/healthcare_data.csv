@@ -1,0 +1,3 @@
+patient_id,age,gender,diagnosis,admission_date
+4001,65,M,hypertension,2024-03-05
+4002,54,F,diabetes,2024-03-07
